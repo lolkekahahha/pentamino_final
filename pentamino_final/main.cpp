@@ -6,7 +6,7 @@
 #include <vector>
 #include <string>
 #include <windows.h>
-#include "shapes.h" // Подключение заголовочного файла
+#include "shapes.h" 
 
 using namespace std;
 
